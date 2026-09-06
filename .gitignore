@@ -1,0 +1,30 @@
+# Python environments
+env/
+venv/
+.venv/
+*/env/
+*/venv/
+*/.venv/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
