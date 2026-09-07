@@ -1,8 +1,4 @@
 # AI and Machine Learning Bootcamp
 
 My exercises, notebooks, and projects from the Complete AI & Machine Learning, Data Science Bootcamp.
-
-## Progress
-
-- [x] Introduction to Pandas
-- [ ] Continue adding course sections
+(https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/?couponCode=MT260907G1A)
