@@ -28,3 +28,4 @@ __pycache__/
 !.env.example
 *.pem
 *.key
+scikit_learn/random_forest_model_1.pkl
