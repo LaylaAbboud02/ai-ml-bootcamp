@@ -28,4 +28,8 @@ __pycache__/
 !.env.example
 *.pem
 *.key
+
 scikit_learn/random_forest_model_1.pkl
+milestone_project_2/data/Train.csv
+milestone_project_2/data/train_tmp.csv
+milestone_project_2/data/TrainAndValid.csv
